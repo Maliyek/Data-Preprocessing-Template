@@ -3,7 +3,7 @@ This repository includes all the Data Preprocessing required before using a data
 
 ***
 
-**This template might need some minor changes working with some other dataset. This code works fine with the given Data.csv file. Therefore, it 
+**This template may need some minor changes working with some other dataset. This code works fine with the given Data.csv file. Therefore, it 
 is recommended to understand what this code does to use it for your own Machine Learning Models.**
 
 ***
